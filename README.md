@@ -1,0 +1,2 @@
+# sqlite-xplore
+Exploring sqlite
