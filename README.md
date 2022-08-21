@@ -1,2 +1,3 @@
 # sqlite-xplore
-Exploring sqlite
+
+Exploring sqlite...
